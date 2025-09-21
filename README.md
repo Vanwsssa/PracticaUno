@@ -110,3 +110,5 @@ Dificultades
 
 Hallazgos 
 Conforme hemos ido desarrollando estas aplicaciones e descubierto que me gusta mucho esta area, porque me gusta que mis proyectos queden lindos.
+
+
