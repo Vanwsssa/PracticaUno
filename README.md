@@ -103,6 +103,18 @@ Y el cambio de mi barra superior.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44773989-6e8f-4c3c-ae81-561dcad213c9" />
 
+Finalmente agregue otro activity que se nos fue solicitado en este caso agregue un boton que nos dirija a la pantalla y en esa segundo activity regresar con un nuevo boton.
+
+Aqui se ve antes de cambiar de activity:
+
+<img width="351" height="787" alt="image" src="https://github.com/user-attachments/assets/ae1602e5-759b-43bb-ab47-a94a51e23e08" />
+
+Aqui se ve cuando ya estamos en el nuevo activity:
+
+<img width="356" height="789" alt="image" src="https://github.com/user-attachments/assets/72844f77-5bde-4d8f-9e96-7f0c73ae98e3" />
+
+
+
 Dificultades
 1. En mi caso presente difultades al momento de crear mis fragments ya que no recordaba como hacerlos, pero con ayuda de la primera tarea pude guiarme para que me quedara y logarar recordar el procedimiento que segui para que funcionara.
 2. Otra dificultad que presente fue cambiar el modo de claro por oscuro, pero lo solucuone porque la vez que el profesor explico este tema tome notas que me ayudaron a solucionar mi problema.
