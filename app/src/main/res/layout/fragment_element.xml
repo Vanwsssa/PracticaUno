@@ -20,7 +20,6 @@
         android:id="@+id/tvTituloElement"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Elementos de Informacion"
         android:textSize="24sp"
         android:textStyle="bold"
         android:textAlignment="center"
